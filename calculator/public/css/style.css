@@ -1,0 +1,10 @@
+body {background: #fff;}
+
+.calculator {background: #424156;width:300px;margin:100px auto;border-radius:4px;box-shadow:0px 0px 10px rgba(0,0,0,0.1);}
+
+.calculator-head {/* height:40px; */clear:both;border-bottom: 1px solid rgba(255,255,255,0.1); color:#fff;}
+.calculator-head input {width:33%;float:left;color: #fff;padding: 16px 14px;border: none;background: none;border-right: 1px solid rgba(255,255,255,0.1);margin: 0;}
+
+.calculator-body { padding:15px; }
+.calculator-body .btn {width: calc(25% - 4px);height: 56px;font-size: 25px;line-height: 56px`;margin-left: 4px;background: #565568;color: #fff;}
+.calculator-result {width:33.33%;float:left;background:rgba(255,255,255,0.1);height: 56px;padding: 9px 14px;font-size: 25px;}
